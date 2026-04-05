@@ -15,7 +15,7 @@
     "verbatimModuleSyntax": false,
     "moduleDetection": "force",
     "noEmit": false,
-    "outDir": "./dist",,
+    "outDir": "./dist",
     "jsx": "react-jsx",
     "strict": false,
     "noUnusedLocals": false,
