@@ -1,0 +1,6 @@
+{
+    "watch": ["api"],
+    "ext": "ts,json",
+    "exec": "tsx --env-file .env api/index.ts",
+    "ignore": ["api/**/*.spec.ts"]
+}
